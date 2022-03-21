@@ -5,7 +5,7 @@ class MyDocument extends Document{
     return (
       <Html lang="en">
         <Head>
-          <title>React Shop</title>
+          {/* Aca va codigo de google analytics */}
         </Head>
         <body>
           <Main />
